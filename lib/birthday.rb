@@ -15,4 +15,3 @@ def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |kids_name, age|
   end
 end
-
